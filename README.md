@@ -1,7 +1,7 @@
 
 # Webinar EBAC Fullstack
 
-Projeto desenvolvido durante o Webinar Jornada Fullstack da EBAC nos dias 27 a 31 de Março.
+Projeto desenvolvido durante o Webinar Jornada Fullstack da EBAC nos dias 28/03 a 04/04.
 
 
 
