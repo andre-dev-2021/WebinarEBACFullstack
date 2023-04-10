@@ -3,7 +3,8 @@
 
 Projeto desenvolvido durante o Webinar Jornada Fullstack da EBAC nos dias 28/03 a 04/04.
 
-
+## Link
+- [Link do projeto](https://tiktok---jornada-15c78.web.app/)
 
 
 ## Referência
