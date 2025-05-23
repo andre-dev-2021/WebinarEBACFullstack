@@ -18,7 +18,7 @@ function VideoFooter({name,description,music}) {
       <img
         className="videoFooter__record"
         alt="Imagem de um vinil girando"
-        src="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png"
+        src={require("../../../assets/vinyl.png")}
       />
     </div>
   );
