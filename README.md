@@ -1,15 +1,15 @@
 
 # Webinar EBAC Fullstack
 
-Projeto desenvolvido durante o Webinar Jornada Fullstack da EBAC nos dias 28/03 a 04/04.
+Aplicação web que clona alguns elementos da UI do TikTok. Projeto desenvolvido durante o Webinar Jornada Fullstack da EBAC.
+
+## Tecnologias Utilizadas
+
+- ReactJS: Frontend.
+- Firebase: Banco de Dados e hospedagem.
 
 ## Link
-- [Link do projeto](https://tiktok---jornada-15c78.web.app/)
-
-
-## Referência
-
- - [EBAC Webinars](https://ebaconline.com.br/webinars)
+- [https://tiktok---jornada-15c78.web.app/](https://tiktok---jornada-15c78.web.app/)
 
 
 ## Autor
